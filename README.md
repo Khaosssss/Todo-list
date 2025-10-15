@@ -26,7 +26,7 @@ A simple full-stack task manager built with React, Express, MongoDB, and Tailwin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/Khaosssss/todo-list.git
 cd todo-list
 cd Backend
 npm install
