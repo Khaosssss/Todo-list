@@ -58,7 +58,7 @@ You can change the database connection string in .env
 
 If you deploy, update .env with your production MongoDB URI
 
-📄 License
+
 This project is licensed under the MIT License.
 
 
